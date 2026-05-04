@@ -7,7 +7,7 @@
 ## Interest
 
       ⭐️ 알고리즘 문제 풀기
-      📚 자기계발서 읽기
+      ![pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
       💪 헬스 🍳 요리 ♟ 체스
 
 
