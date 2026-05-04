@@ -15,20 +15,20 @@
 ## Project🍀
 >  부경대학교 학생들을 위한 심부름 서비스 앱 커카(https://github.com/pknu-wap/Quokka) - 플러터 <sub>(2024.03 ~ 2024.8)</sub><br>
 >  함께 절약해요! 가계부 커뮤니티 앱(https://github.com/pknu-wap/WAP-OR) - 안드로이드 <sub>(2024.09 ~ 2024.11)</sub><br>
+>  브라우저에서 즐기는 실시간 카드 대전 게임(https://github.com/pknu-wap/2025-2-SnapTale) - 리액트 <sub>(2025.09 ~ 2025.11)</sub><br>
 
 
 
 ## Skill
 <div align="center"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 
