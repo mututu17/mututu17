@@ -1,13 +1,13 @@
 ## Introduce
 
-      하고 싶은게 너무 많은 3학년입니다✌
+      🔮​공기업이 목표지만, 개발도 취미로 하고 싶어요🪄
 
 
 
-## Interest
+## Interest <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="20"/>
 
       ⭐️ 알고리즘 문제 풀기
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="20"/>
+      🍿 넷플릭스 시청
       💪 헬스 🍳 요리 ♟ 체스
 
 
@@ -22,10 +22,6 @@
 ## Skill
 <div align="center"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-
-
-<div align="center"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
